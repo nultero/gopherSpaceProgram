@@ -1,4 +1,4 @@
-package population
+package main
 
 type Gopher struct {
 	Name       string

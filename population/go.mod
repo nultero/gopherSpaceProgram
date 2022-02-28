@@ -1,3 +1,3 @@
-module github.com/nultero/gopherverse/population
+module population
 
 go 1.17
